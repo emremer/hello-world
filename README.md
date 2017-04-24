@@ -1,3 +1,3 @@
 # hello-world
 GitHub Merhaba Dünya Açıklaması
-Orijinalden klon alıp yeni bir Brunch oluşturduk. Bu dedğişiklik "readme-edits" Brunch'ının içinde
+Orijinalden klon alıp yeni bir Brunch oluşturduk. Bu değişiklik "readme-edits" Brunch'ının içinde
